@@ -36,6 +36,6 @@ Language selection is an almost immediate problem when designing applications to
 - R
 
 ## C-type languages
-1. Java
-2. C++
-3. C
+1. Scala
+2. Rust
+3. C++
