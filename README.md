@@ -19,7 +19,7 @@ Language selection is an almost immediate problem when designing applications to
 
 ## CSS Preprocessors
 1. Vanilla CSS
-2. SASS
+2. SASS (.scss)
 
 ## Native Languages
 - Swift for Apple OSs
