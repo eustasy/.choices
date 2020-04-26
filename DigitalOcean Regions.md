@@ -18,6 +18,22 @@ Sometimes coverage may be required across regions to keep latency low. In that c
 - SGP1
 - BLR1
 
+#### Additional regions for larger deployments
+
+More American: Add SFO2  
+More European: Add FRA1
+
+### Worldwide served from multiple regions for capacity
+
+Large-file storage is common for downloads, and such a network will benefit little from latency improvements, but more local distribution can still be noticeably faster and more stable. These are typically built on the smallest droplets availabe, as larger systems see no improvement on link speed or bandwidth allocation.
+
+1. NYC3
+2. AMS3
+3. SFO2
+4. FRA1
+5. SGP1
+6. BLR1
+
 ### Region-specific legal requirements
 
 Applications may wish to split regions by legality when handling sensitive data. You should always consult local law when processing a regions data.
@@ -39,8 +55,8 @@ Applications may wish to split regions by legality when handling sensitive data.
 | Asia / Oceania | SGP1*         |        |
 | South America  | BLR1*         | Spaces, some Droplets |
 
-_^ Not recommended unless there is a legal need for the region._  
-_* Not recommended unless there is a strong penalty for latency._
+_^ Not recommended unless there is a legal need for the region, or a strong regional presence._  
+_* Not recommended unless there is a strong penalty for latency, or a strong regional presence._  
 
 ### References
 - [Regional Availability Matrix](https://www.digitalocean.com/docs/platform/availability-matrix/)
