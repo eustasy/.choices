@@ -16,7 +16,6 @@ Sometimes coverage may be required across regions to keep latency low. In that c
 - NYC3
 - AMS3
 - SGP1
-- BLR1
 
 #### Additional regions for larger deployments
 
@@ -53,7 +52,7 @@ Applications may wish to split regions by legality when handling sensitive data.
 | EU Alternate   | FRA1          |        |
 | UK (Non-EU)    | LON1^         | Spaces |
 | Asia / Oceania | SGP1*         |        |
-| South America  | BLR1*         | Spaces, some Droplets |
+| Asia / Oceania | BLR1*         | Spaces, some Droplets |
 
 _^ Not recommended unless there is a legal need for the region, or a strong regional presence._  
 _* Not recommended unless there is a strong penalty for latency, or a strong regional presence._  
