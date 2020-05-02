@@ -41,6 +41,16 @@ Applications may wish to split regions by legality when handling sensitive data.
 - AMS3 for GDPR Europe
 - LON1 for non-GDPR Europe
 
+### PCI-DSS Compliance
+
+PCI Compliant distributed systems should follow a slightly different path than other worldwide systems, notably dropping SGP1 and replacing SFO2 with SFO1.
+
+1. NYC3
+2. AMS3
+3. **SFO1**
+4. FRA1
+5. BLR1
+
 ### Region Locations
 
 | Area           | Region Code   | Lacks  |
@@ -59,3 +69,4 @@ _* Not recommended unless there is a strong penalty for latency, or a strong reg
 
 ### References
 - [Regional Availability Matrix](https://www.digitalocean.com/docs/platform/availability-matrix/)
+- [Datacenter Security & Privacy Certifications](https://www.digitalocean.com/trust/certification-reports)
