@@ -25,6 +25,7 @@ Language selection is an almost immediate problem when designing applications to
 - Swift for Apple OSs
 - Go for Android
 - F# for Windows
+- Vala for elementary OS & Other Linux Systems
 - TypeScript
 
 ## Embedded Languages
@@ -36,6 +37,7 @@ Language selection is an almost immediate problem when designing applications to
 - R
 
 ## C-type languages
-1. Scala
-2. Rust
-3. C++
+1. Vala
+2. Scala
+3. Rust
+4. C++
