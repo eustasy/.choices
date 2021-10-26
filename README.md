@@ -50,4 +50,4 @@ This repository exists to ensure choices within eustasy are made in a consistent
 - [UptimeRobot](https://uptimerobot.com/pricing/)
 - [Pingdom](https://www.pingdom.com/pricing/) (by SolarWinds)
 
-* Currently used.
+`* Currently used.`
