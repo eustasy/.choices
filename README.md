@@ -5,9 +5,17 @@ Choices are constantly being made by developers, many of which we aren't even aw
 This repository exists to ensure choices within eustasy are made in a consistent and documented manner.
 
 ## Domain Registrars
-- [Cloudflare](https://cloudflare.com/)*
+
+Domains may be registered in **Dedicated Registrars**, in which the registration and management of domains is their primary business, or **Service Registrars**, in which domains are supplementary to their main product(s). Dedicated Registrars can be used to centralise domain renewal when using multiple platforms with single or mutliple domains, whereas Service Registrars can offer tighter integration with their product offering, such as 1-click DNSSEC setup with Cloudflare.
+
+### Dedicated Registrars
 - [NameSilo](https://www.namesilo.com/pricing)*
-- [Google](https://domains.google.com/registrar)
+
+### Service Registrars
+- [Cloudflare Domains](https://cloudflare.com/)*
+- [Google Domains](https://domains.google.com/registrar)
+- [Microsoft Azure App Service](https://azure.microsoft.com/en-gb/pricing/)
+- [Amazon Route 53](https://aws.amazon.com/pricing/) (AWS)
 
 ## DNS
 - [Cloudflare](https://cloudflare.com/)* is unique in providing DNS-level intercepts for protection, compression, and analytics.
