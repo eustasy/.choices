@@ -43,13 +43,7 @@ Applications may wish to split regions by legality when handling sensitive data.
 
 ### PCI-DSS Compliance
 
-PCI Compliant distributed systems should follow a slightly different path than other worldwide systems, notably dropping SGP1 and replacing SFO2 with SFO1.
-
-1. NYC3
-2. AMS3
-3. **SFO1**
-4. FRA1
-5. BLR1
+All regions are PCI-DSS compliant.
 
 ### Region Locations
 
@@ -68,5 +62,5 @@ _^ Not recommended unless there is a legal need for the region, or a strong regi
 _* Not recommended unless there is a strong penalty for latency, or a strong regional presence._  
 
 ### References
-- [Regional Availability Matrix](https://www.digitalocean.com/docs/platform/availability-matrix/)
-- [Datacenter Security & Privacy Certifications](https://www.digitalocean.com/trust/certification-reports)
+- [Regional Availability Matrix](https://docs.digitalocean.com/products/platform/availability-matrix/)
+- [Datacenter Security & Privacy Certifications](https://www.digitalocean.com/trust/certification-reports/)
