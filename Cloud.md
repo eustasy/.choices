@@ -9,14 +9,12 @@ Domains may be registered in **Dedicated Registrars**, in which the registration
 
 ### Service Registrars
 - [Cloudflare Domains](https://cloudflare.com/)*
-- [Google Domains](https://domains.google.com/registrar) (GCP)
 - [Microsoft Azure App Service](https://azure.microsoft.com/en-gb/pricing/)
 - [Amazon Route 53](https://aws.amazon.com/pricing/) (AWS)
 
 ## DNS
 - [Cloudflare](https://cloudflare.com/)* is unique in providing DNS-level intercepts for protection, compression, and analytics.
 - [Digital Ocean](https://www.digitalocean.com/pricing/)^ allows you to easily point DNS entries to droplets, clusters, or load balancers.
-- [Google](https://domains.google.com/registrar) (GCP)
 - [Microsoft Azure DNS](https://azure.microsoft.com/en-gb/pricing/details/dns/)
 - [Amazon Route 53](https://aws.amazon.com/pricing/) (AWS)
 
