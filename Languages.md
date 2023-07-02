@@ -3,11 +3,9 @@ Language selection is an almost immediate problem when designing applications to
 
 ## Accessible web stack
 
-### 1. JavaScript
-
-### 2. Python
-
-### 3. PHP
+1. JavaScript
+2. Python
+3. PHP (Legacy)
 
 ## JavaScript Package Managers
 1. NPM
