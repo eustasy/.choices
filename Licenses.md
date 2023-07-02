@@ -3,11 +3,9 @@ Modules built for eustasy should follow these guidelines, either for numbered pr
 
 ## Code
 
-### 1. MIT License
-
-### 2. Apache License 2.0
-
-### 3. GNU Lesser General Public License v3.0
+1. MIT License
+2. Apache License 2.0
+3. GNU Lesser General Public License v3.0
 
 ## Fonts
 
