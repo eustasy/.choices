@@ -30,6 +30,9 @@ Domains may be registered in **Dedicated Registrars**, in which the registration
 - [Cockroach Labs](https://www.cockroachlabs.com/pricing/)* have an option for fully-managed, serverless, auto-scaling databases on GCP or AWS. Highly survivable, geo-partitioned at row level, multi-region coming soon.
 - [Digital Ocean](https://www.digitalocean.com/pricing/)*
 
+### Serverless Sites
+- [Cloudflare Pages]([https://pages.github.com/](https://pages.cloudflare.com/))*
+
 ### Static Sites
 - [GitHub Pages](https://pages.github.com/)*
 - [Carrd](https://carrd.co/pro)
